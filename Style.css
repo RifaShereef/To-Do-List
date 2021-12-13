@@ -1,0 +1,41 @@
+body{
+    background-image:url("todo.jpg"); 
+    color: white;
+}
+
+#addbutton{
+    
+    height: 33px;
+    margin-left: 5px;
+    margin-inline: auto;
+    background-color: greenyellow;
+}
+
+#input{
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    margin-right: 4px;
+    margin-left: 54px;
+    margin-bottom: 10px;
+    width: 700px;
+    height: 25px;
+    border: solid white;
+   
+}
+
+#content{
+    background-color: rgb(46, 45, 45) ;
+    margin-left: 550px;
+    margin-top: 270px;
+    width: 880px; 
+    height: 405px;
+    opacity: 0.8;
+}
+
+.outerdiv{
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    margin-right: 4px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
